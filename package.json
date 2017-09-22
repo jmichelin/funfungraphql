@@ -1,0 +1,25 @@
+{
+  "name": "funfungraphql",
+  "version": "1.0.0",
+  "description": "Playing along with @mpj",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmichelin/funfungraphql.git"
+  },
+  "author": "John Michelin <john@javascriptjohn.com> (http://www.javascriptjohn.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmichelin/funfungraphql/issues"
+  },
+  "homepage": "https://github.com/jmichelin/funfungraphql#readme",
+  "dependencies": {
+    "express-graphql": "0.6.11",
+    "graphql": "0.11.3",
+    "node-fetch": "1.7.3",
+    "xml2js": "0.4.19"
+  }
+}
